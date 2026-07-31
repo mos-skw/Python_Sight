@@ -1,0 +1,7 @@
+path: ./split_dataset  # 数据集根目录（根据实际路径调整）
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1  # 类别数量（绿色指示牌为1类）
+names: ['AAA']  # 类别名称
